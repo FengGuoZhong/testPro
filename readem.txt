@@ -1,1 +1,3 @@
-this is a version system
+this is a version system.
+Git is a free software.
+Git is a distributed version control ystem.
