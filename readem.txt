@@ -7,3 +7,4 @@ Git tracks change.
 
 add a
 add b
+Creting a new branch is quick.
